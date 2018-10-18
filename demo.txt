@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 <title>demo</title>
 	<style>	
-		div{border: 1px solid red;width: 200px;height: 500px;background: linear-gradient(20deg,gray 30%,blue ,  yellow 99%);background-image: url(images/icon.png);background-repeat: no-repeat}
+		div{border:none;width: 200px;height: 500px;background: linear-gradient(20deg,gray 30%,blue ,  yellow 99%);background-image: url(images/icon.png);background-repeat: no-repeat}
 	</style>
 </head>
 <body>
-	<div > div01</div>
+	<div >this is new demo</div>
 </body>
 </html>
